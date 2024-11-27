@@ -1,0 +1,7 @@
+{
+  "TELEGRAM_BOT_TOKEN": "123456789:ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef",
+  "TELEGRAM_CHANNEL": "@your_channel",
+  "OPENAI_API_KEY": "sk-abcd1234efgh5678ijkl9012mnop3456qrstuvwx",
+  "PROMPT": "You summarize the text for the video description for a post in the Telegram channel. You need the main points to interest the listener. The text should be no shorter than 50 words.",
+  "HASHTAGS": ["#hashtag_1, #hashtag_2"]
+}
