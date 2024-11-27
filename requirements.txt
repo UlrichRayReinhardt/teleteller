@@ -1,0 +1,5 @@
+python-telegram-bot
+yt_dlp
+bs4
+telebot
+openai==0.28
