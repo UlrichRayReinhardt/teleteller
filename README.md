@@ -1,3 +1,28 @@
+Teleteller: YouTube-to-Telegram Automation
+Teleteller is a script designed to automate content creation for Telegram channels by leveraging the power of YouTube, OpenAI, and Telegram Bot APIs. The script performs the following tasks:
+
+Download Audio from YouTube Videos
+Finds a specified video on YouTube and downloads its audio in .mp3 format.
+
+Transcribe Audio with Whisper-1
+Processes the downloaded audio using OpenAI's whisper-1 model to generate an accurate transcription of the spoken content.
+
+Analyze and Summarize the Transcript
+Utilizes OpenAI's language model to analyze the transcript and summarize it into engaging and concise text, perfect for a Telegram post.
+
+Create and Send Telegram Post
+Automatically creates a formatted post, including hashtags, and sends it to a specified Telegram channel via a Telegram bot.
+
+Key Features:
+Fully automated workflow from YouTube video to Telegram post.
+High-quality transcription using OpenAI Whisper.
+Intelligent summarization powered by OpenAI's GPT model.
+Seamless integration with Telegram via bot for effortless posting.
+This script simplifies content creation for Telegram channels by turning video content into summarized, engaging posts with minimal effort!
+
+
+
+
 Configuration Instructions
 
 Step 1: Fill in the config.json file
